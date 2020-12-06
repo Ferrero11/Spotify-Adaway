@@ -5,6 +5,9 @@
 127.0.0.1 gads.pubmatic.com
 
 # Spotify Default
+127.0.0.1 open.spotify.com
+127.0.0.1 audio2.spotify.com
+127.0.0.1 desktop.spotify.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 media-match.com
 127.0.0.1 adclick.g.doublecklick.net
