@@ -2,7 +2,7 @@
 ::1  localhost
 
 # SPOTIFY ADS BEGIN #
-127.0.0.1 gads.pubmatic.com
+# 127.0.0.1 gads.pubmatic.com
 # 127.0.0.1 spclient.wg.spotify.com
 
 # Spotify Default
@@ -31,7 +31,6 @@
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 gtssl2-ocsp.geotrust.com
 127.0.0.1 js.moatads.com
-127.0.0.1 log.spotify.com
 127.0.0.1 pagead46.l.doubleclick.net
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 pubads.g.doubleclick.net
